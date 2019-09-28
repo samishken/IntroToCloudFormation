@@ -1,9 +1,9 @@
 {
   "Resources" : {
-    "catpics" : {
+    "travelpics" : {
       "Type" : "AWS::S3::Bucket"
     },
-    "dogpics" : {
+    "mycitypics" : {
       "Type" : "AWS::S3::Bucket"
     }
   }
